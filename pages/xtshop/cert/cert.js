@@ -1,5 +1,5 @@
 /*
-  首页
+  购物车
 */
 const app = getApp()
 

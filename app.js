@@ -33,6 +33,12 @@ App({
       }
     })
   },
+  onShow: function (options) {
+    // Do something when show.
+  },
+  onHide: function () {
+    // Do something when hide.
+  },
   onError: function (error) {
     console.log(error)
   },

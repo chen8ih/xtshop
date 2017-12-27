@@ -1,5 +1,5 @@
 /*
-  首页
+  列表
 */
 const app = getApp()
 

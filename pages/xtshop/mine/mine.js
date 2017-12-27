@@ -1,5 +1,5 @@
 /*
-  首页
+  我
 */
 const app = getApp()
 
