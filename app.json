@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/xtshop/index/index",
+    "pages/logs/logs"
+  ],
+
+  "tabbar": {
+    "color": "#858585",
+    "selectedcolor": "#008842",
+    "backgroundColor": "#fff",
+    "borderColor": "#fff",
+    "list": [
+      {
+        "pagePath": "pages/xtshop/index/index",
+        "iconPath": "images/icons/",
+        "selectedIconPath": "images/icons/",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/xtshop/index/index",
+        "iconPath": "images/icons/",
+        "selectedIconPath": "images/icons/",
+        "text": "分类"
+      },
+      {
+        "pagePath": "pages/xtshop/index/index",
+        "iconPath": "images/icons/",
+        "selectedIconPath": "images/icons/",
+        "text": "购物车"
+      },
+      {
+        "pagePath": "pages/xtshop/index/index",
+        "iconPath": "images/icons/",
+        "selectedIconPath": "images/icons/",
+        "text": "我的"
+      }
+    ]
+  },
+  "window": {
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "肖特精密",
+    "navigationBarTextStyle":"black"
+  },
+  "debug": true
+}
